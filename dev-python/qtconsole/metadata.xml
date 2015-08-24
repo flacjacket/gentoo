@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <longdescription>
+Qt-based console for Jupyter with support for rich media output
+  </longdescription>
+  <upstream>
+    <remote-id type="pypi">qtconsole</remote-id>
+    <remote-id type="github">jupyter/qtconsole</remote-id>
+  </upstream>
+</pkgmetadata>
