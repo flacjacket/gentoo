@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <longdescription>
+A configuration system for Python applications
+  </longdescription>
+  <upstream>
+    <remote-id type="pypi">traitlets</remote-id>
+    <remote-id type="github">ipython/traitlets</remote-id>
+  </upstream>
+</pkgmetadata>
