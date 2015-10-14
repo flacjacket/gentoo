@@ -5,7 +5,7 @@
 EAPI=5
 
 # In Python 3.4, pathlib is now part of the standard library.
-PYTHON_COMPAT=( python{2_7,3_3,3_4} pypy )
+PYTHON_COMPAT=( python{2_7,3_3,3_4,3_5} pypy )
 inherit distutils-r1
 
 DESCRIPTION="Object-oriented filesystem paths"
